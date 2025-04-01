@@ -158,6 +158,18 @@ button:hover {
   display: none;
 }
 
+.participant {
+  font-size: 14px;
+  color: #333;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #e8f5e9;
+  margin-bottom: 5px;
+  display: list-item;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
